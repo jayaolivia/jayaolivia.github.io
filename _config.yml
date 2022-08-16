@@ -19,6 +19,7 @@ author:
   url:            https://twitter.com/alextokolyi
 
 paginate:         5
+page.comments:    false
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
