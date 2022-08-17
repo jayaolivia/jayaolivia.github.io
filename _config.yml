@@ -16,7 +16,7 @@ baseurl:          '/'
 
 author:
   name:           'Jaya Patil'
-  url:            https://twitter.com/alextokolyi
+  url:            https://twitter.com/patiljayo
 
 paginate:         5
 page.comments:    false
