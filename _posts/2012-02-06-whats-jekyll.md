@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Sample post 1
+title: Welcome
 
 ---
-MEEP [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+You're here because I bit the bullet. With the help of my technology-literate friend, I took charge of my own Google results. I would say I made a website but I really just accepted one that said friend kindly created (thanks, Alex!).
 
-> Jekyll is a simple, blog aware, static site generator. It takes a template directory \[...\] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+I didn't think I would ever be Googleable but, much like fame, one day it just happened. Come to discover that other people who create things also have websites??? The memo must have gotten lost in the mail.
 
-It's an immensely useful tool and one we encourage you to use here with Hyde.
-
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+Although, my address does seem to change with the seasons. Speaking of, I'm in the mountains of Colorado with Fairfax, Virginia on the brain... or should I say Fairfax, Va (AP Style).
